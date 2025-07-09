@@ -1,0 +1,24 @@
+{
+  "name": "vkbin",
+  "version": "0.0.0",
+  "description": "Ensure the existence of bin.",
+  "type": "module",
+  "dependencies": {
+    "@manypkg/get-packages": "^3.0.0"
+  },
+  "bin": {
+    "vkbin": "main.js"
+  },
+  "files": [
+    "main.js"
+  ],
+  "keywords": [
+    "bin"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/startracex/vkbin.git"
+  },
+  "author": "startracex",
+  "license": "MIT"
+}
